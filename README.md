@@ -24,4 +24,3 @@
      `https://gist.github.com/{github_username}/`**`762ebda9730630395aabdee06ce58fd1`**
    - **`GH_TOKEN`:** The GitHub token generated above
    - **`LEETCODE_USERNAME`:** Your LeetCode Username
-
